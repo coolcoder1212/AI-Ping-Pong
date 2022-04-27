@@ -1,0 +1,33 @@
+body {
+    background-image: url("background1.jpg");
+    color: white;
+}
+
+.footer {
+    background-color: darkblue;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    text-shadow: 3px 3px gray;
+}
+
+#myModal {
+    color: darkblue;
+}
+
+.instructions {
+    background-color:blue;
+    border: none;
+}
+
+.instructions:hover {
+    background-color:rgb(0, 0, 155);
+    border: none;
+    color: white;
+}
+
+canvas {
+    border: white solid 5px;
+    padding: 10px;
+    background-color: black;
+}
